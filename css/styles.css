@@ -1,8 +1,8 @@
 :root {
     --blanco: #ffffff;
     --negro: #212121;
-    --primario: #FFC000;
-    --secundario: #FFC999;
+    --primario: #FFC107;
+    --secundario: hsl(186, 100%, 33%);
     --gris: #757575;
     --gris-claro: #DFE9F3;
 }
