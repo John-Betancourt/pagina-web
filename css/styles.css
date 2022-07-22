@@ -1,8 +1,8 @@
 :root {
     --blanco: #ffffff;
     --negro: #212121;
-    --primario: #FFC107;
-    --secundario: hsl(186, 100%, 33%);
+    --primario: #FFC000;
+    --secundario: #FFC999;
     --gris: #757575;
     --gris-claro: #DFE9F3;
 }
@@ -36,8 +36,8 @@ body {
     margin: 0 auto;
 }
 .boton{
-    background-color: var(--secundario);
-    color: var(--blanco);
+    background-color: green;
+    color: darkblue;
     padding: 1rem 3rem;
     margin-top: 3rem;
     font-size: 2rem;
