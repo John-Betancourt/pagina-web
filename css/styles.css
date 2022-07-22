@@ -36,8 +36,8 @@ body {
     margin: 0 auto;
 }
 .boton{
-    background-color: var(--secundario);
-    color: var(--blanco);
+    background-color: green;
+    color: darkblue;
     padding: 1rem 3rem;
     margin-top: 3rem;
     font-size: 2rem;
